@@ -6,4 +6,5 @@ build/
 nbbuild/
 dist/
 nbdist/
+assets/
 .nb-gradle/
